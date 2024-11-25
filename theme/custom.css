@@ -1,0 +1,35 @@
+.content {
+    margin: 0 auto;
+    max-width: 900px; /* Wider layout for better readability */
+    padding: 20px;
+}
+
+body {
+    background-color: #ffffff; /* Change based on your palette */
+    color: #152535
+}
+
+a {
+    color: #00509e; /* Primary color */
+}
+
+a:hover {
+    color: #034a1e; /* Accent color */
+    text-decoration: underline;
+}
+
+.navbar {
+    background-color: #014214;
+    text-decoration: underline;
+}
+
+.navbar a {
+    color: #ffffff;
+    text-decoration: underline;
+}
+ 
+.navbar a:hover {
+    color: #054913; /* Accent color */
+    text-decoration: underline;
+}
+
